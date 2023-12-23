@@ -28,7 +28,7 @@
 /**
  * Marlin release version identifier
  */
-#define SHORT_BUILD_VERSION "2.1.3e MRiscoC"
+#define SHORT_BUILD_VERSION "2.1.3 PRO~UI"
 
 /**
  * Verbose version identifier which should contain a reference to the location
@@ -57,7 +57,7 @@
  * has a distinct Github fork— the Source Code URL should just be the main
  * Marlin repository.
  */
-#define SOURCE_CODE_URL "github.com/classicrocker883/MriscocProUI"
+#define SOURCE_CODE_URL "github.com/SrgWhoopsie/Marlin_/tree/SKRminiE3ve-aquillaPRO-UI"
 
 /**
  * Default generic printer UUID.
